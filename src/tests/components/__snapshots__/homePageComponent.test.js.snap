@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`homePageComponent matches snapshot 1`] = `<homePageComponent />`;
