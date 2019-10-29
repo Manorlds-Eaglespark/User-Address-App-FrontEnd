@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import { Link } from 'react-router-dom';
 import theBannerImage from '../assets/images/take_action1.jpg';

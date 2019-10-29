@@ -1,5 +1,4 @@
-/* eslint linebreak-style: ["error", "unix"] */
-/* eslint linebreak-style: ["error", "windows"] */
+/* eslint-disable */
 import axios from 'axios';
 import { toast } from 'react-toastify';
 import { EditAddressConstants } from './actionTypes';

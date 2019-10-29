@@ -1,5 +1,4 @@
-/* eslint linebreak-style: ["error", "unix"] */
-/* eslint linebreak-style: ["error", "windows"] */
+/* eslint-disable */
 import { EditAddressConstants } from '../actions/actionTypes';
 
 
